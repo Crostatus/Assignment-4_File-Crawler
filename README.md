@@ -22,7 +22,7 @@ synchronized externally”
 
 Write a JAVA program that:\
 ● receives a directory filepath as input.\
-● prints all the informations contained in that directory and, recursively, of every subdirectory encountered.\
+● prints all the informations contained in that directory and, recursively, of every subdirectory encountered.
 
 The program must:\
 ● Activate a producer thread and a set of 'k' consumers threads.\
